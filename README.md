@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elainepessanha16
 - 👀 I’m interested in learning how to code and internship
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on i donn't know yet
+- 💞️ I’m looking to collaborate on i don't know yet
 - 📫 How to reach me at linkedin: https://www.linkedin.com/in/elainepessanha/
 
 <!---
