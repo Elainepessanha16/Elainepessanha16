@@ -12,7 +12,7 @@
     </tr>   
 </table>
 </center>  
-============================================================================================
+==========================================================================================
 <a href="https://www.linkedin.com/in/elainepessanha"> <img src="https://user-images.githubusercontent.com/114964906/197638873-b107eabc-5c8f-4b2a-ad4b-f40109340d75.png" width="40" </a></br>                                                                                                                         
 <a href="https://twitter.com/elainepessanha)"> <img src="https://user-images.githubusercontent.com/114964906/197640697-692b49e2-d17d-45f1-a97a-fae2eecc2953.png" width="40" </a></br>
 <a href="mailto:elainepessanha1612@gmail.com)"> <img src="https://user-images.githubusercontent.com/114964906/197647748-f7e467d6-8557-4b04-bae4-27917f606a82.png" width="40" </a></br>
