@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elainepessanha
 - 👀 I’m interested in learning how to code and internship
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on i don't know yet
+- 💞️ I’m looking to collaborate on Python, HTML, JS e CSS.
 
 
 
