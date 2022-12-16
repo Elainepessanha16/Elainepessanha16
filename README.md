@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elainepessanha
 - 👀 I’m interested in learning how to code and internship
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, JS e CSS
 - 💞️ I’m looking to collaborate on Python, HTML, JS e CSS.
 
 
